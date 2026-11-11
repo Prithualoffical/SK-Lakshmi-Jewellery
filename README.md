@@ -39,3 +39,4 @@ Then visit: `http://localhost:3000`
 - **Google Fonts** - *Cinzel*, *Playfair Display*, and *Plus Jakarta Sans*
 - **Lucide Icons**
 - **Zero build step required** — Ready to deploy to Netlify, Vercel, or traditional cPanel hosting for `sklakshmijewellery.com`.
+# SK-Lakshmi-Jewellery
